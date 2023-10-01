@@ -93,6 +93,8 @@ $ nodemon index
 ```
 ```wsl
 
+# WSL
+
 # Connect PostgreSQL
 psql -U postgres -h localhost
 
