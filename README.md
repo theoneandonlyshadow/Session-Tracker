@@ -91,6 +91,18 @@ $ nodemon index
 
 # The server will initialize in the <http://localhost:8069/>
 ```
+```wsl
+
+# Connect PostgreSQL
+psql -U postgres -h localhost
+
+```
+
+```bash
+# initate connection to docker
+docker compose up
+
+```
 
 ## :memo: License ##
 
