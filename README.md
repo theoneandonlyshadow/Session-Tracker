@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">Session Tracker</h1>
-<h3 align="center">[company given project]</h3>
+<h3 align="center">[ internship project ]</h3>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/theoneandonlyshadow/Warden-Logger?color=56BEB8">
